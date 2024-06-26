@@ -42,6 +42,19 @@ load_dataset("tner/bc5cdr)
 
 
 
-                                                Training
+                                                Training and Evaluation 
 
-Pretrained model "en_ner_bc5cdr_md" model from the spacy library and "allanai/scibert_scivocab_uncased" and "bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12" model from the transformers library are trained on the dataset "tner/bc5cdr" 
+Pretrained model "en_ner_bc5cdr_md" model from the spacy library and "allanai/scibert_scivocab_uncased" and "bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12" model from the transformers library are trained on the dataset "tner/bc5cdr" with different epoch size. Then the  trained model's performance are evaluated using accuracy, precision, recall and f1 score.
+
+
+                                                 Deployment
+
+
+The model "en_ner_bc5cdr_md" after training on different epoch size is deployed which give good precision using streamlit.
+
+
+                                                  Contact
+
+For any questions or quiries, please contact:
+
+linkedin.com/in/manish-kumar-79b2a8276
