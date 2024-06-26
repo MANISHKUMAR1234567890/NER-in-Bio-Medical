@@ -30,3 +30,12 @@ cd NER-in-Bio-Medical
 
 pip install -r requirements.txt
 
+
+
+
+                                                    Data
+
+                                                    
+This project uses publicly available biomedical datasets. You can directly load the data from the datasets library as 
+
+load_dataset("tner/bc5cdr)
