@@ -25,7 +25,7 @@ To get started with the project, clone the repository and install the required d
 https://github.com/MANISHKUMAR1234567890/NER-in-Bio-Medical.git
 
 
-cd NER-in-Bio-Medical
+*cd NER-in-Bio-Medical*
 
 
 pip install -r requirements.txt
