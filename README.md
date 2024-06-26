@@ -39,3 +39,9 @@ pip install -r requirements.txt
 This project uses publicly available biomedical datasets. You can directly load the data from the datasets library as 
 
 load_dataset("tner/bc5cdr)
+
+
+
+                                                Training
+
+Pretrained model "en_ner_bc5cdr_md" model from the spacy library and "allanai/scibert_scivocab_uncased" and "bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12" model from the transformers library are trained on the dataset "tner/bc5cdr" 
