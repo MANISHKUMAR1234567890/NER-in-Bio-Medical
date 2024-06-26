@@ -1,0 +1,12 @@
+datasets
+spacy
+scispacy
+pandas
+scikit-learn
+matplotlib
+transformers
+torch
+accelerate
+numpy
+itertools
+streamlit
