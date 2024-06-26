@@ -1,4 +1,4 @@
-**#Named Entity Recognition In Biomedical **
+****#Named Entity Recognition In Biomedical **************************
 **#Overview**
 This project focuses on Named Entity Recognition (NER) in the biomedical domain. NER aims to locate and classify named entities in text into predefined categories such as the names of persons, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc. In the biomedical domain, NER involves identifying entities like diseases, chemicals etc. from biomedical literature.
 
