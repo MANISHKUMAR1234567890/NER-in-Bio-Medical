@@ -36,9 +36,7 @@ pip install -r requirements.txt
                                                     Data
 
                                                     
-This project uses publicly available biomedical datasets. You can directly load the data from the datasets library as 
-
-load_dataset("tner/bc5cdr)
+This project uses publicly available biomedical datasets.
 
 
 
@@ -51,6 +49,10 @@ Pretrained model "en_ner_bc5cdr_md" model from the spacy library and "allanai/sc
 
 
 The model "en_ner_bc5cdr_md" after training on different epoch size is deployed which give good precision using streamlit.
+
+
+
+                                 
 
 
                                                   Contact
