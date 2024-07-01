@@ -6,7 +6,7 @@ from spacy import displacy
 model_path = 'D:\\ML projects\\internship work nith\\trained_model'
 model = spacy.load(model_path)
 
-st.header("NER in BIO Medical")
+st.header("Biomedical NER")
 def process_and_visualize(text):
     doc = model(text)
     return doc
