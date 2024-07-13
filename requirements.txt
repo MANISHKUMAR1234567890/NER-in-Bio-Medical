@@ -10,3 +10,4 @@ accelerate
 numpy
 itertools
 streamlit
+streamlit_option_menu
