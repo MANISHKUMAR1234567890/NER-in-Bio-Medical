@@ -48,8 +48,7 @@ Pretrained model "en_ner_bc5cdr_md" model from the spacy library and "allanai/sc
                                                  Deployment
 
 
-The model "en_ner_bc5cdr_md" after training on different epoch size is deployed which give good precision using streamlit.
-
+The model "en_ner_bc5cdr_md" after training on different epoch size is deployed which give good precision using streamlit.Then styling is added using the CSS.
 
 
                                  
